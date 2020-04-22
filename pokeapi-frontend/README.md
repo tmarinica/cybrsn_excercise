@@ -7,7 +7,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+https://github.com/tiberiuMarinica/cybrsn_excercise
 ```
 
 ### Compiles and minifies for production
