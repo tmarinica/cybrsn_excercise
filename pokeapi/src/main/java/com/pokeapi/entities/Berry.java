@@ -38,6 +38,10 @@ public class Berry implements Serializable {
 	@Column
 	private Integer soil_dryness;
 
+	public Berry() {
+		super();
+	}
+
 	public Berry(Integer id, String name, Integer growth_time, Integer max_harvest, Integer natural_gift_power,
 			Integer size, Integer smoothness, Integer soil_dryness) {
 		super();
