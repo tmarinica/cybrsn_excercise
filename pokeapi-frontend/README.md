@@ -7,7 +7,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-https://github.com/tiberiuMarinica/cybrsn_excercise
+npm run serve -- --port 3000
 ```
 
 ### Compiles and minifies for production
